@@ -70,7 +70,7 @@ margin: 0;
     background-color: green;
     color: #f1f1f1;
 }
-.div1 li:last-child a{
+.div1 li:last-child{
     background-color: red;
     float: right;
 }
